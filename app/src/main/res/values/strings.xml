@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="add_story">Tambah Cerita</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="have_account">Belum Punya Akun?</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="save">Simpan</string>
+    <string name="created_date">Tanggal Dibuat</string>
+    <string name="description">Deskripsi</string>
+    <string name="copyright">© 2022</string>
+    <string name="label_change_language_settings">Pengaturan Bahasa</string>
+    <string name="label_invalid_email">Format Email Tidak Valid</string>
+    <string name="label_validation_password">Kata Sandi harus minimal 8 karakter</string>
+    <string name="validate_register_success">Pendaftaran Berhasil!</string>
+    <string name="validate_register_failed">Email sudah ada!</string>
+    <string name="login_user_not_found">Email atau password salah!</string>
+    <string name="validate_login_success">Login Berhasil!</string>
+    <string name="input_name">Masukkan nama terlebih dahulu!</string>
+    <string name="input_email">Masukkan email terlebih dahulu!</string>
+    <string name="input_password">Masukkan kata sandi terlebih dahulu!</string>
+    <string name="description_mandatory">Deskripsi wajib diisi</string>
+    <string name="image_mandatory">Silakan unggah berkas gambar terlebih dahulu!</string>
+    <string name="permission">Izin Ditolak.</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="failed_take_picture">Gagal mengambil gambar.</string>
+    <string name="failed_bring_up_camera">Gagal membuka kamera.</string>
+    <string name="info">Informasi</string>
+    <string name="have_account_register">Sudah punya akun?</string>
+</resources>
